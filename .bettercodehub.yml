@@ -1,0 +1,8 @@
+exclude:
+- .github/.*
+- docs/.*
+
+languages:
+- csharp
+
+component_depth: 4
